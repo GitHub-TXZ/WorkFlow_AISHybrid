@@ -1,5 +1,3 @@
-# WorkFlow_AISHybrid
-
 # 基于CNN和Transformer的脑卒中病灶分割工作流
 
 ## 简介
